@@ -39,17 +39,17 @@ var UsersAndHighscores = []user.User{
 	{
 		Id:        7,
 		Name:      "Terry",
-		Highscore: 4,
+		Highscore: 2,
 	},
 	{
 		Id:        8,
 		Name:      "Marie",
-		Highscore: 5,
+		Highscore: 3,
 	},
 	{
 		Id:        9,
 		Name:      "Carl",
-		Highscore: 5,
+		Highscore: 1,
 	},
 	{
 		Id:        10,
