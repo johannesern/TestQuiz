@@ -31,6 +31,31 @@ var UsersAndHighscores = []user.User{
 		Name:      "Robert",
 		Highscore: 1,
 	},
+	{
+		Id:        6,
+		Name:      "Johanna",
+		Highscore: 2,
+	},
+	{
+		Id:        7,
+		Name:      "Terry",
+		Highscore: 4,
+	},
+	{
+		Id:        8,
+		Name:      "Marie",
+		Highscore: 5,
+	},
+	{
+		Id:        9,
+		Name:      "Carl",
+		Highscore: 5,
+	},
+	{
+		Id:        10,
+		Name:      "Neil",
+		Highscore: 1,
+	},
 }
 
 func ReturnAllQuestions() []question.Question {
